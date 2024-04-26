@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu projeto de vida</title>
+</head>
+<body>
+    <h1>Meu projeto de vida</h1>
+
+    <h2>Meus objetivos para 2024</h2>
+    <ul>
+        <li>
+            Realizar os cursos do Alura e fazer todas as plataformas
+            <br>
+            Prazo: 8 meses
+        </li>
+        <li>
+            Passar de ano
+            <br>
+            Prazo: 8 meses
+        </li>
+        <li>
+            Fazer Enem e vestibular
+            <br>
+            Prazo: 7 meses
+        </li>
+        <li>
+            Ter carteira de motorista
+            <br>
+            Prazo: 9 meses
+        </li>
+        <li>
+            Viajar no Natal
+            <br>
+            Prazo: 8 meses
+        </li>
+        <li>
+            Viajar para Santa Catarina
+            <br>
+            Prazo: 10 meses
+        </li>
+    </ul>
+</body>
+</html>
